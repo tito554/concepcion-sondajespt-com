@@ -1,0 +1,51 @@
+# Sondajespt — Concepción
+
+> Geotechnical engineering services in Concepción, Chile.
+
+## Services
+- [Aislacion Sismica](https://concepcion.sondajespt.com/aislacion-sismica/)
+- [Anclajes](https://concepcion.sondajespt.com/anclajes/)
+- [Calicatas](https://concepcion.sondajespt.com/calicatas/)
+- [Cbr Vial](https://concepcion.sondajespt.com/cbr-vial/)
+- [Cimentaciones](https://concepcion.sondajespt.com/cimentaciones/)
+- [Columnas Grava](https://concepcion.sondajespt.com/columnas-grava/)
+- [Densidad Cono Arena](https://concepcion.sondajespt.com/densidad-cono-arena/)
+- [Ensayo Cpt](https://concepcion.sondajespt.com/ensayo-cpt/)
+- [Ensayos Proctor](https://concepcion.sondajespt.com/ensayos-proctor/)
+- [Estabilidad Taludes](https://concepcion.sondajespt.com/estabilidad-taludes/)
+- [Excavaciones Profundas](https://concepcion.sondajespt.com/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://concepcion.sondajespt.com/excavaciones-subterraneo/)
+- [Exploracion](https://concepcion.sondajespt.com/exploracion/)
+- [Geotecnia Vial](https://concepcion.sondajespt.com/geotecnia-vial/)
+- [Granulometria](https://concepcion.sondajespt.com/granulometria/)
+- [Inyecciones](https://concepcion.sondajespt.com/inyecciones/)
+- [Laboratorio In Situ](https://concepcion.sondajespt.com/laboratorio-in-situ/)
+- [Laboratorio Lab](https://concepcion.sondajespt.com/laboratorio-lab/)
+- [Licuefaccion](https://concepcion.sondajespt.com/licuefaccion/)
+- [Limites Atterberg](https://concepcion.sondajespt.com/limites-atterberg/)
+- [Losas Fundacion](https://concepcion.sondajespt.com/losas-fundacion/)
+- [Masw](https://concepcion.sondajespt.com/masw/)
+- [Mejoramiento](https://concepcion.sondajespt.com/mejoramiento/)
+- [Microzonificacion Sismica](https://concepcion.sondajespt.com/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://concepcion.sondajespt.com/monitoreo-excavaciones/)
+- [Muros Contencion](https://concepcion.sondajespt.com/muros-contencion/)
+- [Pavimento Flexible](https://concepcion.sondajespt.com/pavimento-flexible/)
+- [Pavimento Rigido](https://concepcion.sondajespt.com/pavimento-rigido/)
+- [Permeabilidad In Situ](https://concepcion.sondajespt.com/permeabilidad-in-situ/)
+- [Pilotes](https://concepcion.sondajespt.com/pilotes/)
+- [Refraccion Sismica](https://concepcion.sondajespt.com/refraccion-sismica/)
+- [Resistividad](https://concepcion.sondajespt.com/resistividad/)
+- [Sismica](https://concepcion.sondajespt.com/sismica/)
+- [Sondajes Spt](https://concepcion.sondajespt.com/sondajes-spt/)
+- [Taludes](https://concepcion.sondajespt.com/taludes/)
+- [Triaxial](https://concepcion.sondajespt.com/triaxial/)
+- [Tuneles Suelo Blando](https://concepcion.sondajespt.com/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://concepcion.sondajespt.com/vibrocompactacion/)
+- [Zapatas](https://concepcion.sondajespt.com/zapatas/)
+
+## Contact
+- Website: https://concepcion.sondajespt.com/
+
+## About
+This site provides geotechnical engineering services in Concepción, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
